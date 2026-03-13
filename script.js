@@ -1,5 +1,5 @@
 // ============================================
-// Paepel Pluma Boutique — Scripts
+// Papel Pluma Boutique — Scripts
 // ============================================
 
 document.addEventListener('DOMContentLoaded', () => {
